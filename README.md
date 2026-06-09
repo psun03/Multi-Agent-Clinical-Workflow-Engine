@@ -150,8 +150,13 @@ The platform exposes a bifurcated **Streamlit Dashboard UI** that provides end-t
 * **Natural Language Queries:** Allows inputting compound prompts (e.g., *"Book a nephrologist for my 70-year-old father with chronic kidney disease and summarize his treatment methods"*).
 * **Real-time Summaries:** Provides instantaneous delivery of booking block structures and medical risk factors.
 
+![Patient View](images/patient_portal.png)
+
 ### Doctor & Admin Performance Dashboard
 * **Clinical Transparency Ledger:** Side-by-side comparative viewport detailing local internal patient histories alongside external Medline data matrices.
 * **Agent Execution Tracing:** High-granularity execution tracking highlighting individual agent node success/failure rates (e.g., SQL execution accuracy vs FAISS vector hit rates).
 * **Memory Trace Audit Logs:** Deep inspection windows showcasing the underlying LLM planning breakdowns and state memory mutations for compliance and logging.
 
+![Doctor View](images/prpvider_portal.png)
+
+![Admin View](images/admin_portal.png)
