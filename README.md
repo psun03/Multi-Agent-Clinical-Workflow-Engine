@@ -157,6 +157,6 @@ The platform exposes a bifurcated **Streamlit Dashboard UI** that provides end-t
 * **Agent Execution Tracing:** High-granularity execution tracking highlighting individual agent node success/failure rates (e.g., SQL execution accuracy vs FAISS vector hit rates).
 * **Memory Trace Audit Logs:** Deep inspection windows showcasing the underlying LLM planning breakdowns and state memory mutations for compliance and logging.
 
-![Doctor View](images/prpvider_portal.png)
+![Doctor View](images/provider_portal.png)
 
 ![Admin View](images/admin_portal.png)
